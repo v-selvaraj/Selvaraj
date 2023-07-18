@@ -1,0 +1,26 @@
+{
+    "log_level": "debug",
+    "ado": {
+        "organization": "v-selvarajd",
+        "project": "Test2",
+        "wit": "Bug",
+        "states": {
+            "new": "New",
+            "closed": "Closed",
+            "reopened": "New",
+            "deleted": "Removed",
+            "active": "Active"
+        },
+        "bypassRules": true,
+        "autoCreate": true,
+        "assignedTo": "v-selvarajd@microsoft.com",
+        "areaPath": "my_project\\A Path",
+        "iterationPath": "my_project\\Sprint 2",
+        "mappings": {
+            "handles": {
+                "user_a": "user.a@myorganization.com",
+                "user_b": "user.b@myorganization.com"
+            }
+        }
+    }
+}
