@@ -18,15 +18,6 @@ jobs:
       env:     
         ado_token: "{{sjumfpuzjvz7uopboc7etr55i7pvx4n2flxmz3z5afvw3np4zfoq}}"
         github_token: "{{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}}"
-        ado_organization: "dynamicscrm"
-        ado_project : "Solutions"
-        ado_wit : "Issue from GH"
-        ado_new_state : "New"
-        ado_active_state : "Approved"
-        ado_close_state : " Done"
-        autoCreate": true
-        assignedTo": "v-selvarajd@microsoft.com"
-        areaPath": "Test2"
-        "iterationPath": "Test2"
-        ado_bypassrules : true
+       config_file: './.github/workflows/sync_config.json'
+      
         
