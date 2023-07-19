@@ -14,12 +14,12 @@
         "bypassRules": true,
         "autoCreate": true,
         "assignedTo": "v-selvarajd@microsoft.com",
-        "areaPath": "my_project\\A Path",
-        "iterationPath": "my_project\\Sprint 2",
+        "areaPath": "Test2",
+        "iterationPath": "Test2",
         "mappings": {
             "handles": {
-                "user_a": "v-selvarajd@microsoft.com",
-                "user_b": "user.b@myorganization.com"
+                "user_a": "v-selvarajd@microsoft.com"
+               
             }
         }
     }
