@@ -3,7 +3,7 @@
     "ado": {
         "organization": "v-selvarajd",
         "project": "Test2",
-        "wit": "Bug",
+        "wit": "Issue",
         "states": {
             "new": "New",
             "closed": "Closed",
