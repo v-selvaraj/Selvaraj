@@ -14,7 +14,7 @@
         "bypassRules": true,
         "autoCreate": true,
         "assignedTo": "v-selvarajd@microsoft.com",
-        "areaPath": "Test2",
+        "areaPath": "Test2\AreaName",
         "iterationPath": "Test2",
         "mappings": {
             "handles": {
